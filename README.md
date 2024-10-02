@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @vincentrono254
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on we
-- 📫 How to reach me vincentmatson23@gmail
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaboration in frontend & backend projects
+- 📫 How to reach me vincentmatson23@gmail.com
+  
+  
 
 <!---
 vincentrono254/vincentrono254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
